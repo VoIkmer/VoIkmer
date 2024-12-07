@@ -5,7 +5,7 @@
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/cadiviiiiiiiiiiis/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/educarl0s/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VoIkmer&show_icons=true&theme=onedark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VoIkmer&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VoIkmer&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
