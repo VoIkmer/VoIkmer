@@ -20,4 +20,4 @@
 </div>
 
 <br/>
-Estudante de Engenharia Elétrica plea Universidade Federal da Bahia, apaixonado por tecnologia e inovação. Atualmente estudando Desenvolvimento Web Full Stack, e aprendendo mais sobre C e Python.
+Estudante de Engenharia Elétrica pela Universidade Federal da Bahia, apaixonado por tecnologia e inovação. Atualmente estudando Desenvolvimento Web Full Stack, e aprendendo mais sobre linguagens voltadas ao desenvolvimento de scripts da área de engenharia elétrica.
