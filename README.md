@@ -18,4 +18,4 @@
 </div>
 
 <br/>
-Estudante de Engenharia Elétrica pela Universidade Federal da Bahia, apaixonado por tecnologia e inovação. Atualmente estudando Desenvolvimento de Sistema Embarcados, e aprendendo mais sobre linguagens voltadas ao desenvolvimento de scripts da área de engenharia elétrica.
+Estudante de Engenharia Elétrica pela Universidade Federal da Bahia, apaixonado por tecnologia e inovação. Atualmente estudando Desenvolvimento de Sistema Embarcados, e aprendendo mais sobre linguagens voltadas ao desenvolvimento de scripts da área de engenharia elétrica. Interesse em controle de sistemas dinâmicos, automação de processos industriais e redes inteligentes de energia (Smart Grids).
