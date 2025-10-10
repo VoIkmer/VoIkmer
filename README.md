@@ -65,12 +65,12 @@ Meu objetivo é unir **engenharia e programação** para criar soluções eficie
 ### ✨ Um toque animado
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="400" alt="Engenharia animada"/>
+  <img src="https://media.tenor.com/0XfcV8kdzxUAAAAM/sinewave-wave.gif" width="400" alt="Engenharia animada"/>
 </div>
 
 ---
 
 📫 **Contato:**  
-✉️ educarl0s@gmail.com  
+✉️ cguimaraesbarbosa03@gmail.com  
 🌐 [github.com/VoIkmer](https://github.com/VoIkmer)
 
