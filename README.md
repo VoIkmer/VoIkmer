@@ -57,8 +57,7 @@ Meu objetivo é unir **engenharia e programação** para criar soluções eficie
 | 🧩 Projeto | 🧠 Descrição |
 |------------|--------------|
 | 🔋 **Análise de Sinais em MATLAB** | Reconstrução e análise de sinais reais via Séries de Fourier. |
-| ⚡ **Otimização de Sistemas Elétricos** | Scripts de automação e controle para redes inteligentes. |
-| 🧰 **Multi Tool (Batch Script)** | Ferramenta de manutenção e otimização para Windows. |
+
 
 ---
 
