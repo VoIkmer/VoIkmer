@@ -46,8 +46,6 @@ Meu objetivo é unir **engenharia e programação** para criar soluções eficie
   <img align="center" alt="MATLAB" src="https://img.shields.io/badge/MATLAB-FF8C00?style=for-the-badge&logo=mathworks&logoColor=white"/>
   <img align="center" alt="SPICE" src="https://img.shields.io/badge/SPICE-4B8BBE?style=for-the-badge&logo=circuits&logoColor=white"/>
   <img align="center" alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-  <img align="center" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img align="center" alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </div>
 
 ---
