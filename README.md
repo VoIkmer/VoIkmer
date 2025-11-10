@@ -59,14 +59,6 @@ Meu objetivo é unir **engenharia e programação** para criar soluções eficie
 
 ---
 
-### ✨ Um toque animado
-
-<div align="center">
-  <img src="https://media.tenor.com/0XfcV8kdzxUAAAAM/sinewave-wave.gif" width="400" alt="Engenharia animada"/>
-</div>
-
----
-
 📫 **Contato:**  
 ✉️ cguimaraesbarbosa03@gmail.com  
 🌐 [github.com/VoIkmer](https://github.com/VoIkmer)
