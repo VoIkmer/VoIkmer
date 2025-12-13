@@ -1,19 +1,8 @@
-### 👋 Carlos Eduardo
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/educarl0s/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-eduardo-guimar%C3%A3es-barbosa-83506a366/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VoIkmer)
-
----
-
-![Cadu's GitHub stats](https://github-readme-stats.vercel.app/api?username=VoIkmer&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VoIkmer&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
----
+## 👩🏻‍💻 Carlos Eduardo
 
 ### 🧠 Sobre mim
 
-Sou **estudante de Engenharia Elétrica** na **Universidade Federal da Bahia (UFBA)**, apaixonado por **tecnologia, inovação e automação**.  
+Me chamo **Carlos Eduardo Guimarães Barbosa** e sou **estudante de Engenharia Elétrica** na **Universidade Federal da Bahia (UFBA)**, apaixonado por **tecnologia, inovação e automação**.  
 Atualmente, foco meus estudos em **Desenvolvimento de Sistemas Embarcados** e no uso de **linguagens para análise e controle de sistemas elétricos**.  
 
 Tenho interesse em:
@@ -54,8 +43,17 @@ Meu objetivo é unir **engenharia e programação** para criar soluções eficie
 
 | 🧩 Projeto | 🧠 Descrição |
 |------------|--------------|
-| 🔋 **Análise de Sinais em MATLAB** | Reconstrução e análise de sinais reais via Séries de Fourier. |
+| 📡 **Análise de Sinais em MATLAB** | Reconstrução e análise de sinais reais via Séries de Fourier. |
+| 🔋 **Sistema de Gerenciamento de bateria** | Simulação de Sistema de Gerenciamento de Bateria usando Filtro de Kalman Estendido. |
 
+
+---
+
+### 📊 Estatísticas GitHub
+
+
+![Cadu's GitHub stats](https://github-readme-stats.vercel.app/api?username=VoIkmer&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VoIkmer&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
