@@ -2,15 +2,15 @@
 
 ### 🧠 Sobre mim
 
-Me chamo **Carlos Eduardo Guimarães Barbosa** e sou **estudante de Engenharia Elétrica** na **Universidade Federal da Bahia (UFBA)**, apaixonado por **tecnologia, inovação e automação**.  
-Atualmente, foco meus estudos em **Desenvolvimento de Sistemas Embarcados** e no uso de **linguagens para análise e controle de sistemas elétricos**.  
+Me chamo Carlos Eduardo Guimarães Barbosa e sou estudante de Engenharia Elétrica na Universidade Federal da Bahia (UFBA), apaixonado por tecnologia, inovação e automação.
+Atualmente, foco meus estudos em Desenvolvimento de Sistemas de Controle e Redes de Potência e no uso de linguagens para análise e controle de sistemas elétricos.
 
 Tenho interesse em:
-- ⚙️ **Controle de sistemas dinâmicos**
-- 🤖 **Automação de processos industriais**
-- 🔌 **Redes inteligentes de energia (Smart Grids)**
+- ⚙️ Controle de sistemas dinâmicos
+- 🤖 Automação de processos industriais
+- 🔌 Redes inteligentes de energia (Smart Grids)
 
-Meu objetivo é unir **engenharia e programação** para criar soluções eficientes, seguras e sustentáveis.
+Meu objetivo é unir engenharia e programação para criar soluções eficientes, seguras e sustentáveis.
 
 ---
 
