@@ -16,7 +16,6 @@ Meu objetivo é unir engenharia e programação para criar soluções eficientes
 
 ### 📘 Atualmente aprendendo
 
-- 🚀 **Sistemas embarcados** com **ESP32** e **Arduino**
 - ⚡ **Automação industrial** e **protocolos de comunicação**
 - 🧮 **Modelagem e controle de sistemas dinâmicos**
 - 💻 **Otimização de algoritmos** com **MATLAB** e **Python**
