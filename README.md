@@ -51,9 +51,10 @@ Meu objetivo é unir **engenharia e programação** para criar soluções eficie
 
 ### 📊 Estatísticas GitHub
 
+![](https://github-readme-stats.shion.dev/api?username=VoIkmer&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=VoIkmer&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=VoIkmer&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-![Cadu's GitHub stats](https://github-readme-stats.vercel.app/api?username=VoIkmer&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VoIkmer&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
