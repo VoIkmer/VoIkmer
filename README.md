@@ -17,12 +17,26 @@ I'm Carlos Eduardo Guimarães Barbosa, a Electrical Engineering student from Fed
 
 ### 🛠️ Tech Stack
 
-<div style="display: inline-block"><br/>
+#### 💻 Languages & Core
+<div style="display: inline-block">
   <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
   <img align="center" alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img align="center" alt="MATLAB" src="https://img.shields.io/badge/MATLAB-FF8C00?style=for-the-badge&logo=mathworks&logoColor=white"/>
+</div>
+
+#### ⚡ Engineering & Simulation
+<div style="display: inline-block">
+  <img align="center" alt="Simulink" src="https://img.shields.io/badge/Simulink-ED1C24?style=for-the-badge&logo=mathworks&logoColor=white"/>
   <img align="center" alt="SPICE" src="https://img.shields.io/badge/SPICE-4B8BBE?style=for-the-badge&logo=circuits&logoColor=white"/>
   <img align="center" alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+  <img align="center" alt="Raspberry Pi" src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white"/>
+</div>
+
+#### 📊 Data Science & Documentation
+<div style="display: inline-block">
+  <img align="center" alt="NumPy" src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img align="center" alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img align="center" alt="LaTeX" src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white"/>
 </div>
 
 ---
