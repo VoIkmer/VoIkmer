@@ -1,10 +1,9 @@
 ## 👩🏻‍💻 Carlos Eduardo
 
+
 ### 🧠 About me 
 
-I'm Carlos Eduardo Guimarães Barbosa, a Electrical Engineering student from Federal University of Bahia(UFBA) focused on Automation, Smart Energy Systems and Engineering Data Analysis building engineering solutions for them using MATLAB, Python and embedded systems.
-
----
+I'm Carlos Eduardo Guimarães Barbosa, an Electrical Engineering student at the Federal University of Bahia (UFBA) focused on Automation, Smart Energy Systems and Engineering Data Analysis. I develop engineering solutions using MATLAB, Python and embedded systems.
 
 ### 📘 Core Areas
 
@@ -12,6 +11,20 @@ I'm Carlos Eduardo Guimarães Barbosa, a Electrical Engineering student from Fed
 - 🧮 **Embedded Systems**
 - 💻 **Automation**
 - 🧠 **Engineering Analytics**
+
+### 🎯 Engineering Interests
+
+- Industrial Automation
+- Smart Grids
+- Energy Analytics
+- Battery Systems
+- Industry 4.0
+
+### ⚙️ What I Build
+- Signal processing systems
+- Battery monitoring simulations
+- Embedded automation prototypes
+- Engineering analytics tools
 
 ---
 
@@ -46,8 +59,8 @@ I'm Carlos Eduardo Guimarães Barbosa, a Electrical Engineering student from Fed
 
 | 🧩 Project | 🧠 Description |
 |------------|--------------|
-| 📡 **Signal Analysis in MATLAB** | Spectral analysis and signal reconstruction system for harmonic error assessment. |
-| 🔋 **Battery Management System** | Battery Management System Simulation using Extended Kalman Filter. |
+| 📡 **Signal Analysis in MATLAB** | MATLAB-based spectral analysis and signal reconstruction system for harmonic assessment and Fourier-based signal processing. |
+| 🔋 **Battery Management System** | Development of a Battery Management System (BMS) simulation using an Extended Kalman Filter for Li-Ion State of Charge estimation and predictive monitoring. |
 
 
 ---
