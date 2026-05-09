@@ -35,6 +35,7 @@ I'm Carlos Eduardo Guimarães Barbosa, a Electrical Engineering student from Fed
 #### 📊 Data Science & Documentation
 <div style="display: inline-block">
   <img align="center" alt="NumPy" src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img align="center" alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black"/>
   <img align="center" alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img align="center" alt="LaTeX" src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white"/>
 </div>
