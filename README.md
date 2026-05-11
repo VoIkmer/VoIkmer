@@ -70,14 +70,14 @@ I'm Carlos Eduardo Guimarães Barbosa, an Electrical Engineering student at the 
 Smart Energy Monitoring & Automation Platform
 
 ---
-### 📊 Estatísticas GitHub
+### 📊 GitHub's Statistics
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=VoIkmer&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
 ---
 
-### 📫 Contato
+### 📫 Contact
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/educarl0s) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/carl0sedu) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cguimaraesbarbosa03@gmail.com) 
 
