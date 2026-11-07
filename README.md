@@ -59,6 +59,7 @@ I'm Carlos Eduardo Guimarães Barbosa, an Electrical Engineering student at the 
 
 | 🧩 Project | 🧠 Description |
 |------------|--------------|
+| 🛡️ **FaceGuard	IoT** | Security system with facial recognition using ESP32-CAM. Includes embedded firmware (C++), a web dashboard for live monitoring, and a 3D-printed case. |
 | 📡 **Signal Analysis in MATLAB** | MATLAB-based spectral analysis and signal reconstruction system for harmonic assessment and Fourier-based signal processing. |
 | 🔋 **Battery Management System** | Development of a Battery Management System (BMS) simulation using an Extended Kalman Filter for Li-Ion State of Charge estimation and predictive monitoring. |
 
