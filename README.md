@@ -57,17 +57,16 @@ I'm Carlos Eduardo Guimarães Barbosa, an Electrical Engineering student at the 
 
 ### 🚀 Featured Projects
 
-| 🧩 Project | 🧠 Description |
-|------------|--------------|
-| 🛡️ **FaceGuard	IoT** | Security system with facial recognition using ESP32-CAM. Includes embedded firmware (C++), a web dashboard for live monitoring, and a 3D-printed case. |
-| 📡 **Signal Analysis in MATLAB** | MATLAB-based spectral analysis and signal reconstruction system for harmonic assessment and Fourier-based signal processing. |
-| 🔋 **Battery Management System** | Development of a Battery Management System (BMS) simulation using an Extended Kalman Filter for Li-Ion State of Charge estimation and predictive monitoring. |
+[![FaceGuard](https://github-stats-extended.vercel.app/api/pin?username=VoIkmer&repo=VoIkmer%2FFaceGuard&disable_animations=false&theme=dark_github_repocard)](https://github.com/VoIkmer/FaceGuard)
 
+[![Signal Analysis](https://github-stats-extended.vercel.app/api/pin?username=VoIkmer&repo=VoIkmer%2FSignal-Analyzer&disable_animations=false&theme=dark_github_repocard)](https://github.com/VoIkmer/Signal-Analyzer)
+
+[![Battery Management](https://github-stats-extended.vercel.app/api/pin?username=VoIkmer&repo=VoIkmer%2FBMS-SoC-Estimator&disable_animations=false&theme=dark_github_repocard)](https://github.com/VoIkmer/BMS-SoC-Estimator) 
 
 ---
 ### 📊 GitHub's Statistics
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=VoIkmer&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=VoIkmer&langs_count=4&hide_values=true&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=VoIkmer&langs_count=4&hide_values=true&theme=dark_github)
 
 
 ---
