@@ -64,12 +64,6 @@ I'm Carlos Eduardo Guimarães Barbosa, an Electrical Engineering student at the 
 
 
 ---
-
-### ⏱️ Current Focus
-
-Smart Energy Monitoring & Automation Platform
-
----
 ### 📊 GitHub's Statistics
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=VoIkmer&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
